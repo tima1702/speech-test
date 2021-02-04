@@ -2,25 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="77f0302f-f5d0-4f60-8294-827e7c546036" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/CODE_OF_CONDUCT.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/phrase-matcher/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/phrase-matcher/script.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/phrase-matcher/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/speak-easy-synthesis/img/ws128.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/speak-easy-synthesis/img/ws512.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/speak-easy-synthesis/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/speak-easy-synthesis/manifest.webapp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/speak-easy-synthesis/script.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/speak-easy-synthesis/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/speech-color-changer/img/ws128.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/speech-color-changer/img/ws512.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/speech-color-changer/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/speech-color-changer/manifest.webapp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/speech-color-changer/script.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/speech-color-changer/style.css" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,6 +15,29 @@
   </component>
   <component name="GitToolBoxStore">
     <option name="projectConfigVersion" value="2" />
+    <option name="recentBranches">
+      <RecentBranches>
+        <option name="branchesForRepo">
+          <list>
+            <RecentBranchesForRepo>
+              <option name="branches">
+                <list>
+                  <RecentBranch>
+                    <option name="branchName" value="gh-pages" />
+                    <option name="lastUsedInstant" value="1612454212" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="master" />
+                    <option name="lastUsedInstant" value="1612454211" />
+                  </RecentBranch>
+                </list>
+              </option>
+              <option name="repositoryRootUrl" value="file://$PROJECT_DIR$" />
+            </RecentBranchesForRepo>
+          </list>
+        </option>
+      </RecentBranches>
+    </option>
   </component>
   <component name="JsBowerSettings">
     <node-interpreter value="project" />
@@ -91,7 +96,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1612431821298</updated>
-      <workItem from="1612431826104" duration="5587000" />
+      <workItem from="1612431826104" duration="5893000" />
     </task>
     <servers />
   </component>
