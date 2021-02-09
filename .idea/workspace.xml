@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="77f0302f-f5d0-4f60-8294-827e7c546036" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -23,12 +24,12 @@
               <option name="branches">
                 <list>
                   <RecentBranch>
-                    <option name="branchName" value="gh-pages" />
-                    <option name="lastUsedInstant" value="1612454212" />
+                    <option name="branchName" value="main" />
+                    <option name="lastUsedInstant" value="1612454287" />
                   </RecentBranch>
                   <RecentBranch>
-                    <option name="branchName" value="master" />
-                    <option name="lastUsedInstant" value="1612454211" />
+                    <option name="branchName" value="gh-pages" />
+                    <option name="lastUsedInstant" value="1612454212" />
                   </RecentBranch>
                 </list>
               </option>
@@ -96,7 +97,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1612431821298</updated>
-      <workItem from="1612431826104" duration="5893000" />
+      <workItem from="1612431826104" duration="6379000" />
+      <workItem from="1612879669967" duration="2620000" />
     </task>
     <servers />
   </component>
@@ -113,5 +115,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
